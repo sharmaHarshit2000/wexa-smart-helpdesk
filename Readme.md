@@ -1,6 +1,6 @@
 # Wexa Smart Helpdesk
 
-[GitHub Repository](https://github.com/sharmaHarshit2000/wexa-smart-helpdesk) | [Frontend (Vercel)](#) | [Backend (Render)](#)
+[GitHub Repository](https://github.com/sharmaHarshit2000/wexa-smart-helpdesk) | [Frontend (Vercel)](https://wexa-smart-helpdesk-omega.vercel.app/) | [Backend (Render)](https://wexa-smart-helpdesk-ruu6.onrender.com)
 
 A full-stack helpdesk application with React frontend, Node.js/Express backend, MongoDB database, and Dockerized deployment. Supports user authentication, ticket management, knowledge base articles, and triage services.
 
